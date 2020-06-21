@@ -1,0 +1,21 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme1612/ecoleta.git"
+  },
+  "author": "Guilherme Avelino de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guilherme1612/ecoleta/issues"
+  },
+  "homepage": "https://github.com/Guilherme1612/ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
